@@ -628,7 +628,7 @@ int main()
             char adminPassword[50];
             scanf("%s", adminPassword);
 
-            if (strcmp(adminUsername, "admin") == 0 && strcmp(adminPassword, "admin123") == 0)
+            if (strcmp(adminUsername, "admin") == 0 && strcmp(adminPassword, "nuhin23") == 0)
             {
                 adminMenu(&busList, users, &userCount);
             }
